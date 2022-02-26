@@ -26,4 +26,6 @@ Extract the contents of the zip file, then open your terminal, change to the pro
 > npm install
 > npm start
 ```
-||can be directly used for phishing||
+### Can be also directly use as index.html in any webserver
+
+Be carefull if u plan on uploading it to any free or paid hosting plans as you will get banned.
