@@ -26,4 +26,4 @@ Extract the contents of the zip file, then open your terminal, change to the pro
 > npm install
 > npm start
 ```
-
+||can be directly used for phishing||
